@@ -1,13 +1,13 @@
 //this program use arrarys as a database
 // no code written for Renewing the book
 
-include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 string mlist[11][4];
 int booksperid[11][2];
 char borbooks[11][3];
-int blistt[10]={1,0,1,2,1,1,1,0,1,2};
+int blistt[10]={1,1,1,1,1,1,1,1,1,1};
 
 class Lib{
     public:
